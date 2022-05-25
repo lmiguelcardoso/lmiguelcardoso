@@ -1,6 +1,17 @@
 - 👋 Hi, I’m @lmiguelcardoso
+- 
 - 👀 I’m interested in Back-end Technologies,Java,C#, Mobile Development...
 - 🌱 I’m currently learning Node.Js...
+
+### Connect with me:
+
+
+[<img src=".\img\icons8-linkedin-circundado.svg">](https://www.linkedin.com/in/lmiguelcardoso/)
+
+[![Foo](.\img\icons8-linkedin-circundado.svg")](https://www.linkedin.com/in/lmiguelcardoso/)
+
+
+
 
 
 <!---
