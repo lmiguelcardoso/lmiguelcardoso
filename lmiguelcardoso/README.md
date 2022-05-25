@@ -6,7 +6,7 @@
 ### Connect with me:
 
 
-[<img src=".\img\icons8-linkedin-circundado.svg">](https://www.linkedin.com/in/lmiguelcardoso/)
+[<img src=".\img\linkedin">](https://www.linkedin.com/in/lmiguelcardoso/)
 
 
 
